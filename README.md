@@ -16,7 +16,7 @@
 - Looked at distribution in length of summary compared to length of original text as well as each summaries 
 - Identified strengths and weaknesses of each model
 
-![](/images/VUMC Access.PNG)
+![](/images/VUMC Access.png)
 
 ![](/images/Treemap VUMC.PNG)
 
