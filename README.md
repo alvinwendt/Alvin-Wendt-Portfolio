@@ -67,4 +67,4 @@
 
 ### Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alvinwendt/) or [twitter](https://twitter.com/alvinwendt) a
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alvinwendt/) or [Twitter](https://twitter.com/alvinwendt)
