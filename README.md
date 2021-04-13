@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alvinwendt/Alvin-Wendt-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Welcome to my portfolio GitHub Page!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Las Vegas Metropolitan Police Department Crime Mapping Tool](https://github.com/savyrosea/Art_Museum_Inventory_Project)
+- Created a dashboard to provide a snapshot of the artists represented in the museum
+- Used time series analysis to visualize how art acquisition has changed over time
+- Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
+- 
+![](/images/dashboard.PNG)
 
-```markdown
-Syntax highlighted code block
+![](/images/wordcloud1.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+![](/images/scatter2.PNG)
 
-- Bulleted
-- List
+# [Nashville Medicare Providers Analysis](https://sites.google.com/view/nashvilleprovidersds4/home?authuser=0)
+- NLP Project comparing abstractive text summarization models using podcast descriptions
+- Compared PEGASUS abstractive text summerization with the T5 model in the transformers library
+- Looked at distribution in length of summary compared to length of original text as well as each summaries 
+- Identified strengths and weaknesses of each model
 
-1. Numbered
-2. List
+![](/images/EarHustleT5.PNG)
 
-**Bold** and _Italic_ and `Code` text
+# [COVID-19 Violations in Nashville]()
+- Examined when and where Covid-19 violations are occuring in Nashville
+- Mapped coordinates and tags to addresses and businesses using Geocodio and FuzzyWuzzy
+- Examined connections between the reported COVID violations and subsequent COVID clusters
+- Explored the types of businesses that have been reported as well as how business behavor has changed after an outbreak
 
-[Link](url) and ![Image](src)
-```
+![](/images/ClusterMap.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](/images/zoomed.PNG)
 
-### Jekyll Themes
+![](/images/heatmapCOVID.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alvinwendt/Alvin-Wendt-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# [Golf Course Customer Analytics]()
+- Used binary classification to predict whether an employee would be retained for the following work year
+- Analyzed variables to determine which would be most important in my models
+- Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
-### Support or Contact
+![](/images/hr.PNG)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Tennessee Earthquakes]()
+- Geospatial analysis of TN historical seismic activity to determine what regions to allocate earthquake relief funds
+- Hands-on experience applying skills in cleaning and aggregating data from multiple sources (including webscraping)
+
+![](/images/Capture.PNG)
+
+# [Job Scheduling for Large Computing Cluster]()
+- Assisted in job scheduling for a large computing cluster
+- Examined a specific account to improve their efficiency when using the computing cluster
+- Identified commonly failing nodes for company to examine for repairs
+- Presented findings to stakeholder using visualizations and storytelling
+
+# [Model Creation to Predict Permeability]()
+- Assisted in job scheduling for a large computing cluster
+- Examined a specific account to improve their efficiency when using the computing cluster
+- Identified commonly failing nodes for company to examine for repairs
+- Presented findings to stakeholder using visualizations and storytelling
+
+
+### Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alvinwendt/) or [twitter](https://twitter.com/alvinwendt) a
