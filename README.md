@@ -56,7 +56,7 @@
 - Created and tested supervised learning models to be able to predict permeability on various materials
 - Algorithm utilized included decision trees, linear regression with transformations, SVM and other ensemble methods.
 
-<img width="186" alt="perm1" src="https://user-images.githubusercontent.com/70002987/114630695-c5033200-9c80-11eb-8969-02f56cf1dd21.png">
+![perm3](https://user-images.githubusercontent.com/70002987/114640378-9b083a80-9c95-11eb-84f7-a7958495d972.png)
 
 ![perm2](https://user-images.githubusercontent.com/70002987/114630692-c46a9b80-9c80-11eb-954e-9c7dcee0df9c.png)
 
