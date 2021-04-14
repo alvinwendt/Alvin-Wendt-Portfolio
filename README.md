@@ -58,7 +58,7 @@
 
 ![perm3](https://user-images.githubusercontent.com/70002987/114640378-9b083a80-9c95-11eb-84f7-a7958495d972.png)
 
-![perm2](https://user-images.githubusercontent.com/70002987/114630692-c46a9b80-9c80-11eb-954e-9c7dcee0df9c.png =600x600)
+![perm2](https://user-images.githubusercontent.com/70002987/114630692-c46a9b80-9c80-11eb-954e-9c7dcee0df9c.png width="400" height="400")
 
 # [People3 HR Application](https://alvinwendt.shinyapps.io/People3_Census_Nashville/)
 - Create an R Shiny Application to map internal company demographics to surrounding area demographics.
