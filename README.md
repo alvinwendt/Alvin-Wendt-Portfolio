@@ -1,7 +1,7 @@
 
 
 
-## Welcome to my GitHub Portfolio Page!
+# Welcome to my GitHub Portfolio Page!
 
 # [Las Vegas Metropolitan Police Department Crime Mapping Tool](https://alvinwendt.shinyapps.io/LVMPD_Crime_Mapping_Tool/)
 - Created an R shiny application utilizing Las Vegas Crime Data as a tool to identify crime places
