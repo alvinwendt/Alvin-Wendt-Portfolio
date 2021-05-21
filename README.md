@@ -65,6 +65,13 @@
 
 ![people3](https://user-images.githubusercontent.com/70002987/114630723-d0565d80-9c80-11eb-9f36-8adaec4b5512.png)
 
+# [Finance Dashboard Shiny App]()
+- Created Shiny Applicaiton to track selected stocks for various time periods
+
+![2021-05-21_0-26-28](https://user-images.githubusercontent.com/70002987/119086775-9c7efe00-b9cb-11eb-8b06-90b5a8f18a00.gif)
+
 ### Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alvinwendt/) or [Twitter](https://twitter.com/alvinwendt)
+
+
