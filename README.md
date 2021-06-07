@@ -48,7 +48,7 @@
 - Identified commonly failing nodes for company to examine for repairs
 - Presented findings to stakeholder using visualizations and storytelling
 
-<img src="https://user-images.githubusercontent.com/70002987/114630553-78b7f200-9c80-11eb-9993-a4d1e5a9f902.png" width="900">
+<img src="https://user-images.githubusercontent.com/70002987/114630553-78b7f200-9c80-11eb-9993-a4d1e5a9f902.png" width="1200">
 
 ![accre2](https://user-images.githubusercontent.com/70002987/114630554-79508880-9c80-11eb-8f80-a9dd5d336938.png)
 
@@ -56,9 +56,9 @@
 - Created and tested supervised learning models to be able to predict permeability on various materials
 - Algorithm utilized included decision trees, linear regression with transformations, SVM and other ensemble methods.
 
-<img src="https://user-images.githubusercontent.com/70002987/114640378-9b083a80-9c95-11eb-84f7-a7958495d972.png" width="900">
+<img src="https://user-images.githubusercontent.com/70002987/114640378-9b083a80-9c95-11eb-84f7-a7958495d972.png" width="1200">
 
-<img src="https://user-images.githubusercontent.com/70002987/114640956-c2abd280-9c96-11eb-87f1-068c1c985281.png" width="900">
+<img src="https://user-images.githubusercontent.com/70002987/114640956-c2abd280-9c96-11eb-87f1-068c1c985281.png" width="1200">
 
 
 # [People3 HR Application](https://alvinwendt.shinyapps.io/People3_Census_Nashville/)
