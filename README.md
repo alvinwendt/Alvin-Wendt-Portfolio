@@ -3,6 +3,11 @@
 
 # Welcome to my GitHub Portfolio Page!
 
+# [UFC Fight Predictor](https://github.com/alvinwendt/UFC_Capstone/)
+- Project to understand UFC fight factors that could create a predictive model and detect sportbook odds anomalies related to a fight's expected outcome.
+
+![UFC Fight Predictor](https://user-images.githubusercontent.com/70002987/126225377-844145c0-5350-4bcf-a2b3-186309ca025a.jpg)
+
 # [Las Vegas Metropolitan Police Department Crime Mapping Tool](https://alvinwendt.shinyapps.io/LVMPD_Crime_Mapping_Tool/)
 - Created an R shiny application utilizing Las Vegas Crime Data as a tool to identify crime places
 
