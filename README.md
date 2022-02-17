@@ -72,9 +72,15 @@
 ![people3](https://user-images.githubusercontent.com/70002987/114630723-d0565d80-9c80-11eb-9f36-8adaec4b5512.png)
 
 # [Finance Dashboard Shiny App]()
-- Created Shiny Applicaiton to track selected stocks for various time periods
+- Created an R Shiny Applicationo to track selected stocks for various time periods
 
 ![2021-05-21_0-26-28](https://user-images.githubusercontent.com/70002987/119086775-9c7efe00-b9cb-11eb-8b06-90b5a8f18a00.gif)
+
+# [Customer Lifetime Value R Shiny App]()
+- R Shiny Application which can predict the probability and amount that a customer will spend within a given time frame
+
+![2022-02-17_12-10-07](https://user-images.githubusercontent.com/70002987/154544344-434ab159-2f27-4679-907a-e0b7d11114ee.jpg)
+
 
 ### Contact
 
