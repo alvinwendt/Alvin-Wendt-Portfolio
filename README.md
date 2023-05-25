@@ -1,7 +1,7 @@
 
 
 
-# Welcome to my GitHub Portfolio Page!
+# Welcome to Alvin's GitHub Portfolio Page!
 
 # [UFC Fight Predictor](https://github.com/alvinwendt/UFC_Capstone/)
 - Project to understand UFC fight factors that could create a predictive model and detect sportbook odds anomalies related to a fight's expected outcome.
